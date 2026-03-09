@@ -366,12 +366,3 @@ open http://localhost:8000/docs
 
 ---
 
-## 📊 Resume Bullet
-
-> Built a scalable E-Commerce Recommendation Engine using item-based collaborative filtering on the RetailRocket dataset (2.7M interactions); deployed as a FastAPI microservice with MongoDB + Redis achieving **~85% Precision@10** and **500+ RPS** under Locust load testing; implemented a deterministic A/B testing framework with CTR/conversion lift tracking and a React dashboard.
-
----
-
-## 📜 License
-
-MIT
