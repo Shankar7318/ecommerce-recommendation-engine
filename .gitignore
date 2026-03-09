@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+*.pkl
+*.egg
+
+# Environment
+.env
+!.env.example
+
+# Data (large files)
+data/
+*.csv
+*.zip
+
+# Models (regenerate with train_model.py)
+backend/training/models/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Locust results
+backend/results/
+*.csv
