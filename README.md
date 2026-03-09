@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Recommendation Engine
 
-> Production-grade **Item-Based Collaborative Filtering** system built on the **RetailRocket** dataset.
+> **Item-Based Collaborative Filtering** system built on the **RetailRocket** dataset.
 > FastAPI · MongoDB · Redis · React · Docker · Locust
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)](https://python.org)
@@ -33,7 +33,7 @@ RetailRocket Dataset (50k+ events)
 ### 1. Clone
 
 ```bash
-git clone https://github.com/your-username/ecommerce-recommendation-engine.git
+git clone https://github.com/Shankar7318/ecommerce-recommendation-engine.git
 cd ecommerce-recommendation-engine
 ```
 
