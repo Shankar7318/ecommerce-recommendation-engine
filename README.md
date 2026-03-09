@@ -9,6 +9,9 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)](https://docker.com)
 
 ---
+## 📸 Dashboard Preview
+
+![E-Commerce Recommendation Engine Dashboard](image.png)
 
 ## 📐 Architecture
 
